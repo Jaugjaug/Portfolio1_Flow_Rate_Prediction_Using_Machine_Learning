@@ -1,0 +1,10 @@
+dataretrieval
+hydroeval
+numpy
+pandas
+pyarrow
+plotly>=5.0
+scikit-learn
+streamlit>=1.30
+tqdm
+xgboost
