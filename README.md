@@ -100,7 +100,7 @@ xgboost
 
 ```bash
 conda activate venv_streamflow
-cd .\Folder\Of\The\Repo\
+cd .\Portfolio1_Flow_Rate_Prediction_Using_Machine_Learning
 streamlit run app.py
 ```
 
